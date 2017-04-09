@@ -1,0 +1,1 @@
+Creant pàgines estàtiques.
